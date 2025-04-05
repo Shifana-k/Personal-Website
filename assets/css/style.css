@@ -159,6 +159,7 @@ h6 {
 /* Desktop Navigation */
 .nav-menu {
   padding: 30px 0 0 0;
+  padding-bottom: 80px;
 }
 
 .nav-menu * {
@@ -177,8 +178,8 @@ h6 {
   display: flex;
   align-items: center;
   color: #a8a9b4;
-  padding: 12px 15px;
-  margin-bottom: 8px;
+  padding: 2px 35px 15px;
+  margin-bottom: 7px;
   transition: 0.3s;
   font-size: 15px;
 }
@@ -1081,7 +1082,7 @@ section {
   position: fixed;
   left: 0;
   bottom: 0;
-  width: 300px;
+  width: 270px;
   z-index: 9999;
   background: #040b14;
 }
